@@ -32,6 +32,7 @@ in_progres: SMR & Master Data Analytics
 <img src ="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" width="40" height="40">
 <img src ="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tableau.svg" width="40" height="40">
 <img src ="https://cdn.simpleicons.org/numpy/013243" width="40" height="40">
+<img src ="https://cdn.simpleicons.org/pandas/150458" width="40" height="40">
 
 </div>
 
