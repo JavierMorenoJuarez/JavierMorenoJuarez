@@ -37,7 +37,7 @@ in_progres: SMR & Master Data Analytics
 </div>
 
 
-### `> ls professional_projects/`
+### `> ls profesional_projects/`
 
 <div align="center">
 
